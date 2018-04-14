@@ -1,6 +1,4 @@
 # mage
-=======
-Vue JS app
 
 > A Vue.js project
 
